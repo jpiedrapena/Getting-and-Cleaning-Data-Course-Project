@@ -23,4 +23,6 @@ The run_analysis.R scrip does:
 4. Appropriately labels the data set with descriptive variable names.
 5. Creates an independent tidy data set with the average of each variable for each activity and each subject.
 
+Tidy data is upluaded as a separate file called tidyData
+
 
